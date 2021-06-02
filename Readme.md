@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Илья Горин](https://up.htmlacademy.ru/react/7/user/649593).
-* Наставник: [Владимир Турецкий](https://htmlacademy.ru/profile/id439019).
+* Наставник: [Владимир Ульянов](https://htmlacademy.ru/profile/lionskape).
 
 ---
 
