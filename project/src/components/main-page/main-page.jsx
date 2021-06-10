@@ -20,7 +20,7 @@ const cards = [
   },
 ];
 
-function MainPage(props) {
+function Main(props) {
   const {placesCount} = props;
   return (
     <div className="page page--gray page--main">
@@ -132,8 +132,8 @@ function MainPage(props) {
   );
 }
 
-MainPage.propTypes = {
+Main.propTypes = {
   placesCount: PropTypes.string.isRequired,
 };
 
-export default MainPage;
+export default Main;
